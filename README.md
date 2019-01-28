@@ -1,12 +1,11 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
+<!-- MODIFIIED AUTO-GENERATED-CONTENT:START (STARTER) -->
 <h1 align="center">
-  Gatsby's default starter
+  Updating Your Website
 </h1>
+
+I like your work ethic and transparency of your game. I need a small project to learn with and I want to rework your homepage a bit. This is just in case you fall upon this that I am writing this note. 
+
+<h2>Built with Gatsby's default starter</h2>
 
 Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
